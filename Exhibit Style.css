@@ -1,2 +1,8 @@
 body {background-image:url('Images/Marvel.png');
 background-repeat: no-repeat; background-size: cover; }
+
+img{
+  position:absolute;
+  width: 65%;
+  height: 100%;
+}
