@@ -1,0 +1,23 @@
+body { background: url('Mental Illness images/Captain America Character Slide.jpg');
+  background-repeat: no-repeat; background-size: cover;
+}
+
+h1{
+  color: white;
+  font-size: 250%;
+}
+
+
+h2{
+  color: white;
+  font-size: 150%;
+  line-height: 150%
+}
+
+img{
+  position: absolute;
+height: 25%;
+width: 25%;
+top: 45%;
+padding-left: 35%;
+}
