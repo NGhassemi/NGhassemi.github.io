@@ -1,0 +1,23 @@
+body {background-image: url('Disability Images/Prof X Character Slide.png');
+  background-size: cover; background-repeat: no-repeat;
+}
+
+h1{
+  color: white;
+  font-size: 250%;
+}
+
+
+h2{
+  color: white;
+  font-size: 150%;
+  line-height: 150%
+}
+
+img{
+  position: absolute;
+height: 25%;
+width: 25%;
+top: 47%;
+padding-left: 35%;
+}

@@ -1,0 +1,19 @@
+body {background-image: url('Disability Images/Hawkeye Character Slide.png');
+background-repeat: no-repeat; background-size: cover;}
+
+h1{
+  color: white;
+}
+
+h2 {
+  color: white;
+  line-height: 150%;
+
+}
+img {
+  position: absolute;
+  width:35%;
+  height: 40%;
+  margin-left: 74%;
+  top: 35%;
+}
