@@ -1,0 +1,29 @@
+body {background-image: url(file:///D:/OneDrive/Desktop/Academic_School/UCLA/Information%20Studies%20596/The%20Marvelous%20Other%20Website/Race%20Images/Captain%20Maravel%20Character%20Slide.png);
+  background-repeat: no-repeat; background-size: cover;
+}
+
+
+img {
+  border: 2px solid none;
+  width:700px;
+  height: 450px;
+  margin-left: -100px;
+  padding-left:1715px;
+  position: relative;
+  top: -05px;
+}
+
+h1{
+  color: white;
+  top: -70px;
+  top: auto;
+}
+
+
+h2{
+  color: white;
+  text-align: left;
+  padding-left: 1275px;
+  top: -100px;
+
+}

@@ -1,0 +1,56 @@
+body { background: url(file:///D:/OneDrive/Desktop/Academic_School/UCLA/Information%20Studies%20596/The%20Marvelous%20Other%20Website/Images/The%20Marvelous%20Other%20Thematic%20Slides.png);
+  background-repeat: no-repeat; background-size: cover;
+
+}
+}
+body { width: 900px; }
+h1 {
+  font-size: 50px;
+  position: absolute;
+  margin-top: 150px;
+}
+
+h2 {
+  position: absolute;
+  margin-top: 250px;
+  font-weight: normal;
+  line-height: 37px;
+}
+
+.image1
+{
+  position: absolute;
+  margin-left:635px;
+  padding-top: 240px;
+  height: 590px;
+  width: 330px;
+
+
+}
+.image2
+{
+  position: absolute;
+  margin-left:940px;
+  padding-top: 240px;
+  height: 590px;
+  width: 330px;
+
+}
+
+.image3
+{
+  position:absolute;
+  margin-left:1260px;
+  padding-top: 200px;
+  height: 630px;
+  width: 350px;
+}
+
+.image4{
+position:absolute;
+margin-left:1590px;
+padding-top: 239px;
+height: 590px;
+width: 330px;
+
+}
