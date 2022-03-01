@@ -1,0 +1,26 @@
+body {background-image: url('Mental Illness images/Deadpool Character Slide.png');
+background-repeat: no-repeat; background-position: center; background-size: cover;}
+
+
+img {
+  border: 2px solid none;
+  width:500px;
+  height: 350px;
+  margin-left: -500px;
+  padding-left:1915px;
+  position: relative;
+  top: -270px;
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  color: white;
+  line-height: 40px;
+}
+
+.zoom {
+  zoom: 100%;
+}
