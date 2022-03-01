@@ -1,0 +1,53 @@
+body {background-image: url(file:///D:/OneDrive/Desktop/Academic_School/UCLA/Information%20Studies%20596/The%20Marvelous%20Other%20Website/Images/Mental%20Illness%20Thematic.png);
+background-repeat: no-repeat; background-size: cover; 
+}
+
+
+h1 {
+  margin-left: 1700px;
+  font-size: 60px;
+  padding-top: 170px;
+}
+
+h2{
+  font-weight: normal;
+  margin-left: 1355px;
+  line-height: 50px;
+  text-indent: 55px;
+}
+
+.image1
+{
+  position: absolute;
+  margin-left:990px;
+top: 275px;
+  height: 655px;
+  width: 320px;
+
+
+}
+.image2
+{
+  position: absolute;
+  margin-left: 655px;
+  top: 275px;
+  height: 655px;
+  width: 335px;
+}
+
+.image3
+{
+  position: absolute;
+  margin-left: 320px;
+  top: 275px;
+  height: 655px;
+  width: 335px;
+}
+.image4
+{
+  position: absolute;
+  margin-left: -5px;
+  top: 275px;
+  height: 655px;
+  width: 335px;
+}

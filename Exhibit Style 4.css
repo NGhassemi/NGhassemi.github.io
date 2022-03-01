@@ -1,0 +1,28 @@
+body { background: url(file:///D:/OneDrive/Desktop/Academic_School/UCLA/Information%20Studies%20596/The%20Marvelous%20Other%20Website/Race%20Images/Black%20Panther%20Character%20Slide%202.png);
+  background-repeat: no-repeat; background-size: cover;
+}
+
+h1 {
+  text-align: left;
+  font-size: 35px;
+}
+
+h2{
+  text-align: right;
+font-weight: bold;
+  margin-top: 95px;
+  padding-left: 00px;
+  color: white;
+    line-height:50px;
+    font-size: 30px;
+}
+
+img {
+  border: 2px solid none;
+  width:650px;
+  height: 300px;
+  margin-left: -250px;
+  padding-left:950px;
+  position: relative;
+  top: -170px;
+}

@@ -1,0 +1,22 @@
+body { background: url(file:///D:/OneDrive/Desktop/Academic_School/UCLA/Information%20Studies%20596/The%20Marvelous%20Other%20Website/Mental%20Illness%20images/Moon%20Knight%20Cgaracter%20Slide.png);
+  background-repeat: no-repeat; background-size: cover;
+
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  color: white;
+  line-height: 50px;
+}
+img {
+  border: 2px solid none;
+  width:600px;
+  height: 275px;
+  margin-left: -305px;
+  padding-left:900px;
+  position: relative;
+  top: -50px;
+}
