@@ -1,0 +1,22 @@
+body { background: url('Mental Illness images/Moon Knight Character Slide.png');
+  background-repeat: no-repeat; background-size: cover;
+
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  color: white;
+  line-height: 50px;
+}
+img {
+  border: 2px solid none;
+  width:600px;
+  height: 275px;
+  margin-left: -305px;
+  padding-left:900px;
+  position: relative;
+  top: -50px;
+}

@@ -1,0 +1,53 @@
+body {background-image: url('Images/Mental Illness Thematic.png');
+background-repeat: no-repeat; background-size: cover;
+}
+
+
+h1 {
+  margin-left: 80%;
+  font-size: 350%;
+  padding-top: 7%;
+}
+
+h2{
+  font-weight: normal;
+  margin-left: 62.9%;
+  line-height: 210%;
+
+}
+
+.image1
+{
+  position: absolute;
+  margin-left:46.41%;
+  top: 26.5%;
+  height: 62.8%;
+  width: 15%;
+
+
+}
+.image2
+{
+  position: absolute;
+  margin-left: 30.7%;
+  top: 26.5%;
+  height: 62.8%;
+  width: 15.8%;
+}
+
+.image3
+{
+  position: absolute;
+  margin-left: 15%;
+  top: 26.5%;
+  height: 62.8%;
+  width: 16%;
+}
+.image4
+{
+  position: absolute;
+  margin-left: -0.5%;
+  top: 26.3%;
+  height: 62.8%;
+  width: 15.8%;
+}
