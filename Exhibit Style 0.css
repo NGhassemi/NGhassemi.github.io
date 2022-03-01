@@ -1,0 +1,25 @@
+body {background-image:url(Images/Slide1.JPG);
+background-repeat: no-repeat; background-size: cover; }
+
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 800px;
+  }
+
+
+
+h2{
+  text-align: center;
+  font-size: 50px;
+  margin-left:050px;
+}
+
+img{
+  padding-left: 3030px;
+  padding-top: -350px;
+  width: 950px;
+  height: 680px;
+
+}
