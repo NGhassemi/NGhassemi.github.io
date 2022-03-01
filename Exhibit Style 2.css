@@ -1,0 +1,33 @@
+body { background: url('Images/The Marvelous Other Description.png');
+  background-repeat: no-repeat; background-size: cover;
+}
+
+
+h1{
+  padding-top: 300px;
+  font-size: 45px;
+}
+
+h2 {
+  position: absolute;
+  margin-top: -100px;
+  font-weight: normal;
+  padding-top: 120px;
+  line-height: 40px;
+font-size: 30px;
+}
+
+
+
+img {
+  border: 2px solid none;
+  width:550px;
+  height: 280px;
+  margin-left: 1805px;
+  padding-left:-2700px;
+  position: relative;
+  top: 475px;
+}
+.top{
+  float: left;
+}
