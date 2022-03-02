@@ -15,8 +15,12 @@ img {
 
 h1{
   color: white;
-}
 
+}
+p{
+  color: white;
+  font-weight: bolder;
+}
 h2{
   color: white;
   line-height: 40px;
